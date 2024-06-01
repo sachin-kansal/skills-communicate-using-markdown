@@ -6,6 +6,6 @@
 print("Helloworld")
 ```
 
--[x] first item
--[] second item
--[x] last item
+- [x] first item
+- [ ] second item
+- [x] last item
